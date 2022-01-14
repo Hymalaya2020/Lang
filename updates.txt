@@ -1,12 +1,16 @@
 ;aiu;
 
 [Update]
-Name = SystemShutdown
-ProductVersion = 0.0.0.0
-URL = https://github.com/Hymalaya2020/Lang/blob/main/updates.txt
-Size = 43520
-SHA256 = 3BF6C3F23159E328D2BE2C76487F5D6D6389ABD00F6A52A94DF14DEB6228D12B
-MD5 = d756df8b0876c0fb118070ef44c91ab7
-ServerFileName = Extinguisher.exe
-RegistryKey = HKUD\Software\SystemShutdown\Version
-Version = 0.0.0.0
+Name = Your Application
+ProductVersion = 1.0.0.0
+URL = https://drive.google.com/file/d/1AHkiZrpleOJ9Oaft4SlyErqqnpwXlaO3/view?usp=sharing
+Size = 25212388
+SHA256 = BC1647BE119A93A9664ED4E4B289BA0C54017F6183769ADF32E5C2FA96C56EFC
+MD5 = 34c0ada9022e48cd986f928fc6fbde78
+ServerFileName = Your Application.exe
+RegistryKey = HKUD\Software\Your Company\Your Application\Version
+Version = 1.0.0.0
+Description = great things 
+Feature = great features
+Enhancement = great enhancement
+BugFix = Many bugs fixed
