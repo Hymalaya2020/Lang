@@ -1,15 +1,12 @@
 ;aiu;
 
-[Lang 2.0]
-Name = Lang
-ProductVersion = 2.0.0.0
-URL = http://www.example.com/downloads/Lang.exe
-Size = 202922118
-SHA256 = F805C214CBFB115936AA7AC9DB47BC4E9F5A0F64FC7320D96B17E63F05FC7EF1
-MD5 = cc17ab9836ec4b178d12b4792c270154
-ServerFileName = Lang.exe
-RegistryKey = HKUD\Software\Hymalaya\Lang\Version
-Version = 2.0.0.0
-Description = k
-Feature = kl
-Enhancement = ooo
+[Update]
+Name = SystemShutdown
+ProductVersion = 0.0.0.0
+URL = https://github.com/Hymalaya2020/Lang/blob/main/updates.txt
+Size = 43520
+SHA256 = 3BF6C3F23159E328D2BE2C76487F5D6D6389ABD00F6A52A94DF14DEB6228D12B
+MD5 = d756df8b0876c0fb118070ef44c91ab7
+ServerFileName = Extinguisher.exe
+RegistryKey = HKUD\Software\SystemShutdown\Version
+Version = 0.0.0.0
